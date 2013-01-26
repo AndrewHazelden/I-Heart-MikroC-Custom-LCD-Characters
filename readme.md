@@ -1,4 +1,4 @@
-#Andrew Hazelden's Mikromedia Gaming Shield Library  
+#I Heart mikroC Custom LCD Example
 Version 2 - May 4, 2012  
 
 This is a source code example that shows how to create a custom LCD character in mikroC Pro for PIC.
