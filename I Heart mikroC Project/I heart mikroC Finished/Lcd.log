@@ -1,0 +1,13 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4685 -DL -O11111114 -fo8 -N"C:\Documents and Settings\Owner\Desktop\I heart mikroC\Lcd.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Documents and Settings\Owner\Desktop\I heart mikroC\" "Lcd.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1138	Available RAM: 3307 [bytes], Available ROM: 98304 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 31 ms	 
+diagnostics: 0	122	Compilation Started	Lcd.c
+diagnostics: 62	123	Compiled Successfully	Lcd.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1143	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 3291 (99%)	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 3291 (99%)
+hint: 0	1143	Used ROM (bytes): 766 (1%)  Free ROM (bytes): 97538 (99%)	Used ROM (bytes): 766 (1%)  Free ROM (bytes): 97538 (99%)
+diagnostics: 0	125	Project Linked Successfully	Lcd.mcppi
+diagnostics: 0	128	Linked in 1531 ms	 
+diagnostics: 0	129	Project 'Lcd.mcppi' completed: 2656 ms	 
+diagnostics: 0	103	Finished successfully: 13 Feb 2010, 14:20:21	Lcd.mcppi
