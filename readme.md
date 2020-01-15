@@ -1,4 +1,4 @@
-#I Heart mikroC Custom LCD Example
+# I Heart mikroC Custom LCD Example
 Version 2 - May 4, 2012  
 
 This is a source code example that shows how to create a custom LCD character in mikroC Pro for PIC.
@@ -12,12 +12,12 @@ In this video I demonstrate a way to create a custom LCD character using MikroC 
 
 ![EasyPIC Development Board Screenshot](https://raw.github.com/AndrewHazelden/I-Heart-MikroC-Custom-LCD-Characters/master/Screenshots/I-Heart-MikroC-photo-2.png)
 
-##Example Details
+## Example Details
 
-###Open Source Software License:  
+### Open Source Software License:  
 [New BSD License](https://en.wikipedia.org/wiki/BSD_licenses)
   
-###Compatible Software 
+### Compatible Software 
 [mikroC PRO for PIC](http://www.mikroe.com/mikroc/pic/)
 
 ------------------------------------------------------
